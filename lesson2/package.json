@@ -1,0 +1,16 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "description": "Second Lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "minimist": "^1.2.0",
+    "request": "^2.87.0"
+  }
+}

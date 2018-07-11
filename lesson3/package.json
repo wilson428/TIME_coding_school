@@ -1,0 +1,16 @@
+{
+  "name": "lesson3",
+  "version": "0.0.1",
+  "description": "Third lesson in Coding Class",
+  "main": "crawl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "d3": "^5.5.0",
+    "downcache": "^0.1.0"
+  }
+}

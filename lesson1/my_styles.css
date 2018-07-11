@@ -1,0 +1,19 @@
+.intro {
+    margin: 10px 0 10px 0;
+}
+
+#labs_team {
+    color: #CC0000;
+}
+
+#mobydick {
+    height: 150px;
+    overflow-y: scroll;
+    max-width: 600px;
+    font-family: Palatino,serif;
+}
+
+#notes {
+	padding: 10px;
+	margin: 10px;
+}
