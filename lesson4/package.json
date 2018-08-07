@@ -1,0 +1,14 @@
+{
+  "name": "lesson4",
+  "version": "1.0.0",
+  "description": "Depulicating data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "d3": "^5.5.0"
+  }
+}
